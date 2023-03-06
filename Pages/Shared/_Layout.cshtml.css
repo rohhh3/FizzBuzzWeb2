@@ -6,9 +6,12 @@ a.navbar-brand {
   text-align: center;
   word-break: break-all;
 }
-
+.nav-item
+{
+    display: none;
+}
 a {
-  color: #0077cc;
+    color: #0077cc;
 }
 
 .btn-primary {
